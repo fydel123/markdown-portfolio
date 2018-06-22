@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+<ul>
+				<!-- your favorite animal's list items go here -->
+				<li>Kotlin</li>
+				<li>Java</li>
+				<li>HTML</li>
+				<li>CSS</li>
+			</ul>
