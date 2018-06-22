@@ -1,4 +1,4 @@
 *Kotlin
--Java
+- Java
 *HTML
-*CSS
+_CSS
