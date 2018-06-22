@@ -1,4 +1,4 @@
-* Kotlin
+  Kotlin
 * Java
-* HTML
-* CSS
+- HTML
+  CSS
